@@ -52,8 +52,3 @@ Dataset: [Fashion-MNIST (Kaggle)](https://www.kaggle.com/datasets/zalando-resear
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/AI-ML-Projects.git
-   cd AI-ML-Projects/FashionMNIST-LightCNN
